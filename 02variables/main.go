@@ -21,6 +21,11 @@ func main() {
 	// fmt.Printf(username)
 	// fmt.Println(rashed)
 
+	// Multiword variable declear technique
+	// 1. Camel Case
+	// 2. Pascal Case
+	// 3. Snake Case
+
 	var (
 		a int
 		b int    = 1

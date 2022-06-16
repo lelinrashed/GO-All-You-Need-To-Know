@@ -11,7 +11,9 @@ func main() {
 	myNumber := 23
 	var ptr = &myNumber
 
+	// var ptr *int
 	fmt.Println("Value of actual pointer is ", ptr)
+
 	fmt.Println("Value of actual pointer is ", *ptr)
 
 }
